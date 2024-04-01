@@ -25,6 +25,7 @@ This Python script generates Ethereum wallet addresses along with their correspo
 - Results are logged in a file for further analysis.
 
 ## Disclaimer
+YOU MUST HAVE YOUR DB
 This script is intended for educational purposes only. Use it responsibly and at your own risk.
 
 
